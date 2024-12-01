@@ -7,5 +7,6 @@
 - Fixtures for easy setup (@pytest.fixture)
 - Parametrize for multiple identical calls (@pytest.parametrize)
 - Markers (@pytest.mark) (pytest -m fast)
+  - Define custom markers on pytest.ini
 - Run all tests without a certain marker (pytest -k "not slow")
 - Keywork find (pytest -k "add")
